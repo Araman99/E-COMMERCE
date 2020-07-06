@@ -46,3 +46,9 @@
     background-color: white;
     border-top: none;
 }
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
